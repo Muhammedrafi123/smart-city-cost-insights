@@ -1,5 +1,5 @@
 # 🌆 Smart City Cost Insight
-
+![Banner](https://i.postimg.cc/ZKPsXx7n/header-dark-(1).png)
 A modern data-driven platform that helps citizens, researchers, planners, and governments understand the real cost of living and infrastructure expenses inside a smart city ecosystem.
 
 ## 🚀 Overview
